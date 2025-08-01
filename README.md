@@ -119,21 +119,6 @@ Your custom MCP server provides 3 tools:
 
 You can now ingest your videos, retrieve relevant data and query it all using the Cursor Agent. The agent can even create the desired chunks from your video just with a single query!
 
-## 🎥 Video Demonstration
-
-Watch this video to see the Video RAG system in action:
-
-[![Video RAG Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-**What you'll see in the demo:**
-- Setting up the MCP server with Cursor IDE
-- Ingesting video content into the Ragie index
-- Performing natural language queries on video content
-- Extracting specific video chunks based on search results
-- Real-time interaction with the Cursor Agent
-
-*Replace `YOUR_VIDEO_ID` with your actual YouTube video ID*
-
 ## 📖 Usage
 
 ### Basic Usage
