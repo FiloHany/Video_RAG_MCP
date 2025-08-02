@@ -2,6 +2,10 @@
 
 A powerful video retrieval and analysis system that uses the Ragie API to process, index, and query video content with natural language. This project enables semantic search through video content, extracting relevant video chunks based on text queries.
 
+<a href="https://glama.ai/mcp/servers/@FiloHany/Video_RAG_MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@FiloHany/Video_RAG_MCP/badge" alt="Video RAG Server MCP server" />
+</a>
+
 ## 🎯 MCP-powered video-RAG using Ragie
 
 This project demonstrates how to build a video-based Retrieval Augmented Generation (RAG) system powered by the Model Context Protocol (MCP). It uses Ragie's video ingestion and retrieval capabilities to enable semantic search and Q&A over video content and integrate them as MCP tools via Cursor IDE.
