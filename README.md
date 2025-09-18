@@ -50,7 +50,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 ```bash
 # Clone the repository
-git clone[ <your-repo-url>](https://github.com/FiloHany/Video_RAG_MCP.git)
+git clone https://github.com/FiloHany/Video_RAG_MCP.git
 cd video_rag
 
 # Create virtual environment and activate it
